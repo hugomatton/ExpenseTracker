@@ -1,4 +1,4 @@
-# ExpenseTracker
+# Expense Tracker
 
 ### Résumé :
 Application react native permettant de gérer et visualiser ses dépenses. 
