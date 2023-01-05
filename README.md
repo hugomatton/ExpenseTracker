@@ -5,7 +5,7 @@ Application react native permettant de gérer et visualiser ses dépenses.
 Une dépense correspond à un prix en euros + un intitule (exemple --> chaussure 100$).
 L'application offre comme fonctionnalité l'ajout la modification et la suppression d'une dépense. 
 
-### Technologie utilisé :
+### Technologies utilisés :
 - Front : React Native (expo)
 - Back : Firebase (Attention vous devez modifier le code de ce projet et fournir l'url de votre base de données firebase pour que l'application fonctionne correctement)
 
